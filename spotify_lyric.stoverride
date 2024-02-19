@@ -12,5 +12,5 @@ http:
       timeout: 10
 script-providers:
   Spotifygecifanyi1:
-    url: https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js,argument=appid=20240219001967487APPID&securityKey=WdHPLA6OP0gEqaKM_XuS
+    url: https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js,argument=appid=20240219001967487&securityKey=WdHPLA6OP0gEqaKM_XuS
     interval: 86400
