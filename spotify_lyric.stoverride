@@ -1,6 +1,6 @@
 #!desc=自行修改自己的appid和密钥
-name: Spotifygecifanyi
-desc: 自行修改自己的appid和密钥
+name: Spotify翻译
+desc: lxfnice仓库测试
 http:
   mitm:
     - "spclient.wg.spotify.com"
